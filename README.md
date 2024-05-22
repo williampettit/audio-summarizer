@@ -5,6 +5,8 @@ Essentially, my script scrapes the video, extracts the audio, transcribes it, th
 
 I created this because I enjoy listening to these videos, but often run into various problems, such as the speaker talking too fast, and I started to feel like I absorbing and digesting all that there was to be gained from the video or speaker. 
 
+![screenshot of example usage](assets/screenshot.png)
+
 ## Installation
 - `pip install -r requirements` (virtual environment recommended)
 - You'll also need to set up a `.env` file with an OpenAI key, with access to "whisper-1" and "gpt-3.5-turbo" enabled. See `.env.example` for more info
