@@ -1,0 +1,13 @@
+# env files
+.env*
+!.env.example
+
+# dirs created by the script
+cache
+audio
+video
+
+# other
+.venv
+.vscode
+__pycache__

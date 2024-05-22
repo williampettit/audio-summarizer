@@ -1,0 +1,6 @@
+python-dotenv
+openai
+selenium
+webdriver-manager
+diskcache
+pytube
