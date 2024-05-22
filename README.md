@@ -1,4 +1,4 @@
-# motivation-machine
+# motivation-scraper
 This script uses speech-to-text and language models to convert "motivational videos" into simple, easy to digest quotes.
 
 Essentially, my script scrapes the video, extracts the audio, transcribes it, then generates quotes by utilizing the ideas discussed, thereby extracting the most valuable moments into text form. 
