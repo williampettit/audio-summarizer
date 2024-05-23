@@ -1,9 +1,9 @@
 # motivation-scraper
-This script uses speech-to-text and language models to convert "motivational videos" into simple, easy to digest quotes.
+This script uses speech-to-text and language models to convert videos from motivational speakers into simple, easy to digest quotes.
 
 Essentially, my script scrapes the video, extracts the audio, transcribes it, then generates quotes by utilizing the ideas discussed, thereby extracting the most valuable moments into text form. 
 
-I created this because I enjoy listening to these videos, but often run into various problems, such as the speaker talking too fast, and I started to feel like I absorbing and digesting all that there was to be gained from the video or speaker. 
+I created this because often times these speakers will talk too fast, leaving listeners unable to truly absorb what is being said, plus text can be re-read later too, without listening to the video again. Ultimately my tool allows to you better absorb and retain valuable information. 
 
 ![screenshot of example usage](assets/screenshot.png)
 
